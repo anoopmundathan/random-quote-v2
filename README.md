@@ -1,7 +1,9 @@
 # Random Quote Generator
-This is the first project created part of treehouse tech degree program
+> Treehouse - Project 1
 
-### Getting started
+First project created as part of Treehouse full stack techdegree
+
+## Getting started
 * clone the repo
 * change directory
 * open index.html
